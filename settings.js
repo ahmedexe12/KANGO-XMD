@@ -1,4 +1,4 @@
-//-------------------[ BOT SETTINGS ]------------------// 
+g//-------------------[ BOT SETTINGS ]------------------// 
 
 // @project_name : KANGO-XMD 
 // @author : Hector 
